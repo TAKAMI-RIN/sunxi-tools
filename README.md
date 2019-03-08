@@ -12,6 +12,9 @@ or use the command `git shortlog -se --no-merges`.
 Command line utilities to work with devices based on [Allwinner SoC]s:
 sun4i, sun5i, ... - that's why the 'x' in the package name.
 
+Before everything! remember! install libusb-1.0-0-dev!
+sudo apt-get install libusb-1.0-0-dev
+
 ### sunxi-fexc
 `.fex` file (de)compiler
 
